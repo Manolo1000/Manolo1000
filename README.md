@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manolo
-- 👀 I’m interested in blockchain tech, defi, and automation
+- 👀 I’m interested in blockchain tech, ransomware, data negotiations, and automation
 - 🌱 I’m currently learning a lot!
-- 💞️ I’m looking to collaborate on Solidity projects and idea building
+- 💞️ I’m looking to collaborate on Solidity & Security projects also general idea building
 - 📫 How to reach me Twitter @NoloNation
 
 <!---
